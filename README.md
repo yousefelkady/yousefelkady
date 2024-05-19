@@ -1,5 +1,5 @@
 # 💫 About Me:
-Hello, I'm Yousef Elkady, a former System Analyst and currently a Backend Developer<br><br>📚 Keen on working with the MERN Stack (Node.js, Express.js, React, MongoDB).<br>🧠 Happy to be involved in DevOps activities & Database Optimization<br>🎯 Aiming to contribute to the development industry while traveling the world<br>🏓 Video Games & Streaming for Fun<br>📩 Contact me on : yousefosama1998@gmail.com<br><br>Please be my Guest 
+Hello, I'm Yousef Elkady, a former System Analyst and currently a Backend Engineer<br><br>📚 Keen on working with the MERN Stack (Node.js, Express.js, React, MongoDB).<br>🧠 Happy to be involved in DevOps activities & Database Optimization<br>🎯 Aiming to contribute to the development industry while traveling the world<br>🏓 Video Games & Streaming for Fun<br>📩 Contact me on : yousefosama1998@gmail.com<br><br>Please be my Guest 
 
 
 ## 🌐 Socials:
